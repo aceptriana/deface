@@ -12,3 +12,8 @@
 
 [Tutorial Deface](https://github.com/aceptriana/deface)
 
+## Download
+```
+git clone https://github.com/aceptriana/deface
+```
+
